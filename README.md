@@ -51,4 +51,4 @@ Click on 'About Steganograph' button or choose Help > About Steganograph from th
 Click on Help button in the next window.
 If you notice any bugs or have any comments about the application, you could send me comments directly from the application.
 To send comments, click on 'About Steganograph' button or choose Help > About Steganograph, then click on 'Send comments button'.
-You could mail me at rajat0495@gmail.com
+You could mail me at utsavj77@gmail.com
