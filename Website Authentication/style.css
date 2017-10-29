@@ -1,0 +1,23 @@
+.headerImage
+{
+background-image: url(image/csulb.och101.com.jpg); 
+width:1200px;
+ height:180px;	
+}
+.button
+{
+background-color:977c4f;
+color:#FFF;
+border:none;
+height:25px;
+border-radius:5px;
+text-align:center;
+	}
+	
+.text
+{
+font-size:15px;
+color:black;
+font-style:bold;
+text-transform:uppercase;
+}
